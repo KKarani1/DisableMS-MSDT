@@ -3,7 +3,7 @@
 **Purpose:** To have a downloadable Powershell Script created to disable the MSDT URL protocol
 
 ## Use Cases
-* A system administrator needs a powershell script that can be uploaded into a MDM mitigate the vulnerability in Windows computers
+* A system administrator needs a powershell script that can be uploaded into a MDM to mitigate the vulnerability in Windows computers
 * A security conscious person wants a quick way to run a powershell script to disable MSDT until a patch is released by Microsoft on their personal computer
 
 ## Why? Follina, CVE-2022-30190, 7.8 CVSS
